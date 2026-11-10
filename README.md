@@ -1,7 +1,3 @@
-# P10-Priorisation-Acces-Eau-Potable-DWFA
-Tableau de bord Power BI de priorisation des investissements pour l'accès à l'eau potable – Python, Pandas, modélisation de données, DAX.
-
-
 <h1 align="center">💧 Priorisation des investissements pour l'accès à l'eau potable</h1>
 
 <p align="center">
@@ -40,6 +36,9 @@ L'association **Drinking Water For All** souhaite identifier les pays en difficu
 
 ## 📁 Contenu du dépôt
 
-- `Notebooks/` : préparation des données en Python
-- `Presentation/` : support de soutenance
-- `Dashboard/` : fichier Power BI (.pbix)
+| Fichier | Contenu |
+|---|---|
+| `01_exploration_P10_Blondel_Sarah.ipynb` | Exploration et nettoyage des cinq sources de données |
+| `02_preparation_datasets_P10_Blondel_Sarah.ipynb` | Préparation des tables et du modèle de données pour Power BI |
+| `BLONDEL_Sarah_1_presentation_052026.pptx` | Support de soutenance |
+| `BLONDEL_Sarah_2_dashboard_052026.pbix` | Tableau de bord Power BI (5 pages) |
